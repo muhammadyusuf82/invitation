@@ -266,7 +266,7 @@ export function Letter({ visible, onClose }: Props) {
                 className="text-[#5c2018] text-[28px] font-light leading-tight"
                 style={{ fontFamily: '"Cormorant Garamond", serif' }}
               >
-                7
+                8
                 <span className="text-[14px] align-middle mx-1 tracking-widest uppercase">
                   oktyabr
                 </span>
@@ -276,7 +276,7 @@ export function Letter({ visible, onClose }: Props) {
                 className="text-[#8c2018]/70 text-[12px] tracking-[0.2em] mt-1 italic"
                 style={{ fontFamily: '"Cormorant Garamond", serif' }}
               >
-                chorshanba
+                payshanba, ASR namozidan keyin
               </div>
             </div>
             <div>
